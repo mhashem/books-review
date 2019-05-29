@@ -2,4 +2,4 @@
 
 | Cover | Title |
 | --- | --- |
-| ![Java Coding Guideines](/Java%20Coding%20Guideines.png){ width: 200px; } | Java Coding Guideines |
+| <img src="/Java Coding Guideines.png" width="50" height="70" alt="Java Coding Guideines"> | Java Coding Guideines |
